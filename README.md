@@ -1,4 +1,4 @@
 # prueba1
 Estoy aprendiendo a usar Github 
-##descripción
+## descripción
 Esta facil como tu ex
