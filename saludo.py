@@ -1,5 +1,5 @@
 # Esta es otra prueba
-nombre = "Sandino"
+nombre = "Sandino SSS"
 apellido = "Bone"
 saludo = nombre + " " + apellido  
 print(f"Hola {saludo}")  
